@@ -1,16 +1,23 @@
-## Hi there 👋
+# SaitKucukoner
+# Hi, I'm Sait 👋
+🎓 I'm a student at [42 School - Istanbul Campus]  
+🎮 I develop games using **C#** and **Unity**  
+💻 I'm passionate about solving complex problems and building useful applications  
+🚀 Always open to freelance opportunities and collaborations!
 
-<!--
-**SaitKucukoner/SaitKucukoner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Technologies & Tools
+- 💡 Languages: C, C++
+- 🎮 Game Dev: Unity
+- 🧠 Problem Solving: Algorithms & Data Structures (thanks to 42)
+- 🌐 Others: Git, GitHub, Linux, Bash
 
-Here are some ideas to get you started:
+## 📂 42 School Projects
+| Project Name     | Description                  | Status     |
+|------------------|------------------------------|------------|
+| Libft            | Custom C library             | ✅ Done     |
+| ft_printf        | printf clone                 | ✅ Done     |
+| get_next_line    | Line-by-line file reader     | 🔄 In progress |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- 📧 saitkucukonerr@gmail.com
+- 💼 linkedin.com/in/saitkucukoner
