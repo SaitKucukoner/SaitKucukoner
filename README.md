@@ -6,7 +6,7 @@
 🚀 Always open to freelance opportunities and collaborations!
 
 ## 🛠️ Technologies & Tools
-- 💡 Languages: C, C++
+- 💡 Languages: C, C#
 - 🎮 Game Dev: Unity
 - 🧠 Problem Solving: Algorithms & Data Structures (thanks to 42)
 - 🌐 Others: Git, GitHub, Linux, Bash
