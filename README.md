@@ -12,11 +12,11 @@
 - 🌐 Others: Git, GitHub, Linux, Bash
 
 ## 📂 42 School Projects
-| Project Name     | Description                  | Status     |
+| Project Name     | Description                  | Status     | Link     |
 |------------------|------------------------------|------------|
-| Libft            | Custom C library             | ✅ Done     |
-| ft_printf        | printf clone                 | ✅ Done     |
-| get_next_line    | Line-by-line file reader     | 🔄 In progress |
+| Libft            | Custom C library             | ✅ Done     | https://github.com/SaitKucukoner/Libft |
+| ft_printf        | printf clone                 | ✅ Done     | https://github.com/SaitKucukoner/Printf |
+| get_next_line    | Line-by-line file reader     | 🔄 In progress | https://github.com/SaitKucukoner/Get_Next_Line |
 
 ## 📫 Contact Me
 - 📧 saitkucukonerr@gmail.com
